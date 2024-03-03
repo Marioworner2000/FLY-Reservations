@@ -4,7 +4,7 @@ AA1 Mario Worner (Ing. Requisitos)
 **FLY RESERVATION** es un software de reservas destinado sobre todo a organizaciones grandes con las que podrán llevar un control global de sus reservas y hacer una gestión de las mismas de forma eficiente. 
 En ella podrás hacer tus registros de forma cómoda e intuitiva pudiendo añadir todo la información correspondiente, haciendo que el software a continuación te las organice según parámetros que tu hayas introducido previamente (nombre, fechas, duración, coste…) además haciendo clic en cada registro tendrás la información resumida del mismo de un solo vistazo y de forma muy cómoda. 
 
-**FUNCIONALIDADES PRINCIPALES**
+# **FUNCIONALIDADES PRINCIPALES**
 
 **1. Creación Registro:** Aquí los usuario van a poder introducir todas sus reservas introduciendo los valores de la misma. 
 Clasificación de Reservas: Aquí los usuarios podrán hacer una clasificación de sus reservas correspondiente a través de parámetros que ellos introduzcan previamente tales como nombre, fechas, documentación, coste…
